@@ -1,2 +1,2 @@
-~# grocery-lists~
+# grocery-lists
 Example
