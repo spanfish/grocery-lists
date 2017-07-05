@@ -1,2 +1,1 @@
-~Example~
 Item 1
